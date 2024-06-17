@@ -1,0 +1,304 @@
+C:\Users\aluno\Desktop\ProgramLog\obj\Debug\ProgramLog.vbproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\ProgramLog\obj\Debug\ProgramLog.vbproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\ProgramLog\obj\Debug\Interop.ADODB.dll
+C:\Users\aluno\Desktop\ProgramLog\obj\Debug\ProgramLog.vbproj.ResolveComReference.cache
+C:\Users\aluno\Desktop\ProgramLog\obj\Debug\ProgramLog.frm_login.resources
+C:\Users\aluno\Desktop\ProgramLog\obj\Debug\ProgramLog.frm_menu.resources
+C:\Users\aluno\Desktop\ProgramLog\obj\Debug\ProgramLog.Resources.resources
+C:\Users\aluno\Desktop\ProgramLog\obj\Debug\ProgramLog.vbproj.GenerateResource.cache
+C:\Users\aluno\Desktop\ProgramLog\obj\Debug\ProgramLog.vbproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\ProgramLog\bin\Debug\ProgramLog.exe.config
+C:\Users\aluno\Desktop\ProgramLog\bin\Debug\ProgramLog.exe
+C:\Users\aluno\Desktop\ProgramLog\bin\Debug\ProgramLog.pdb
+C:\Users\aluno\Desktop\ProgramLog\bin\Debug\ProgramLog.xml
+C:\Users\aluno\Desktop\ProgramLog\obj\Debug\ProgramLog.exe
+C:\Users\aluno\Desktop\ProgramLog\obj\Debug\ProgramLog.xml
+C:\Users\aluno\Desktop\ProgramLog\obj\Debug\ProgramLog.pdb
+D:\ProgramLog\bin\Debug\ProgramLog.exe.config
+D:\ProgramLog\bin\Debug\ProgramLog.exe
+D:\ProgramLog\bin\Debug\ProgramLog.pdb
+D:\ProgramLog\bin\Debug\ProgramLog.xml
+D:\ProgramLog\obj\Debug\ProgramLog.vbproj.AssemblyReference.cache
+D:\ProgramLog\obj\Debug\Interop.ADODB.dll
+D:\ProgramLog\obj\Debug\ProgramLog.vbproj.ResolveComReference.cache
+D:\ProgramLog\obj\Debug\ProgramLog.frm_login.resources
+D:\ProgramLog\obj\Debug\ProgramLog.frm_menu.resources
+D:\ProgramLog\obj\Debug\ProgramLog.Resources.resources
+D:\ProgramLog\obj\Debug\ProgramLog.vbproj.GenerateResource.cache
+D:\ProgramLog\obj\Debug\ProgramLog.vbproj.CoreCompileInputs.cache
+D:\ProgramLog\obj\Debug\ProgramLog.exe
+D:\ProgramLog\obj\Debug\ProgramLog.xml
+D:\ProgramLog\obj\Debug\ProgramLog.pdb
+D:\ProgramLog\obj\Debug\ProgramLog.frm_cad_fun.resources
+D:\ProgramLog\obj\Debug\ProgramLog.frm_cad_maq.resources
+D:\ProgramLog\obj\Debug\ProgramLog.frm_cad_obra.resources
+D:\ProgramLog\obj\Debug\ProgramLog.frm_atribuir.resources
+D:\ProgramLog\obj\Debug\ProgramLog.frm_consultar.resources
+E:\ProgramLog\bin\Debug\ProgramLog.exe.config
+E:\ProgramLog\bin\Debug\ProgramLog.exe
+E:\ProgramLog\bin\Debug\ProgramLog.pdb
+E:\ProgramLog\bin\Debug\ProgramLog.xml
+E:\ProgramLog\obj\Debug\ProgramLog.vbproj.AssemblyReference.cache
+E:\ProgramLog\obj\Debug\ProgramLog.vbproj.SuggestedBindingRedirects.cache
+E:\ProgramLog\obj\Debug\Interop.ADODB.dll
+E:\ProgramLog\obj\Debug\ProgramLog.vbproj.ResolveComReference.cache
+E:\ProgramLog\obj\Debug\ProgramLog.frm_atribuir.resources
+E:\ProgramLog\obj\Debug\ProgramLog.frm_cad_fun.resources
+E:\ProgramLog\obj\Debug\ProgramLog.frm_cad_maq.resources
+E:\ProgramLog\obj\Debug\ProgramLog.frm_cad_obra.resources
+E:\ProgramLog\obj\Debug\ProgramLog.frm_consultar.resources
+E:\ProgramLog\obj\Debug\ProgramLog.frm_login.resources
+E:\ProgramLog\obj\Debug\ProgramLog.frm_menu.resources
+E:\ProgramLog\obj\Debug\ProgramLog.Resources.resources
+E:\ProgramLog\obj\Debug\ProgramLog.vbproj.GenerateResource.cache
+E:\ProgramLog\obj\Debug\ProgramLog.vbproj.CoreCompileInputs.cache
+E:\ProgramLog\obj\Debug\ProgramLog.exe
+E:\ProgramLog\obj\Debug\ProgramLog.xml
+E:\ProgramLog\obj\Debug\ProgramLog.pdb
+C:\Users\aluno\Desktop\ProgramLog\obj\Debug\ProgramLog.frm_atribuir.resources
+C:\Users\aluno\Desktop\ProgramLog\obj\Debug\ProgramLog.frm_cad_fun.resources
+C:\Users\aluno\Desktop\ProgramLog\obj\Debug\ProgramLog.frm_cad_maq.resources
+C:\Users\aluno\Desktop\ProgramLog\obj\Debug\ProgramLog.frm_cad_obra.resources
+C:\Users\aluno\Desktop\ProgramLog\obj\Debug\ProgramLog.frm_consultar.resources
+E:\dados\Sistema 07 06\ProgramLog\bin\Debug\ProgramLog.exe.config
+E:\dados\Sistema 07 06\ProgramLog\bin\Debug\ProgramLog.exe
+E:\dados\Sistema 07 06\ProgramLog\bin\Debug\ProgramLog.pdb
+E:\dados\Sistema 07 06\ProgramLog\bin\Debug\ProgramLog.xml
+E:\dados\Sistema 07 06\ProgramLog\obj\Debug\ProgramLog.vbproj.AssemblyReference.cache
+E:\dados\Sistema 07 06\ProgramLog\obj\Debug\Interop.ADODB.dll
+E:\dados\Sistema 07 06\ProgramLog\obj\Debug\ProgramLog.vbproj.ResolveComReference.cache
+E:\dados\Sistema 07 06\ProgramLog\obj\Debug\ProgramLog.frm_atribuir.resources
+E:\dados\Sistema 07 06\ProgramLog\obj\Debug\ProgramLog.frm_cad_fun.resources
+E:\dados\Sistema 07 06\ProgramLog\obj\Debug\ProgramLog.frm_cad_maq.resources
+E:\dados\Sistema 07 06\ProgramLog\obj\Debug\ProgramLog.frm_cad_obra.resources
+E:\dados\Sistema 07 06\ProgramLog\obj\Debug\ProgramLog.frm_consultar.resources
+E:\dados\Sistema 07 06\ProgramLog\obj\Debug\ProgramLog.frm_login.resources
+E:\dados\Sistema 07 06\ProgramLog\obj\Debug\ProgramLog.frm_menu.resources
+E:\dados\Sistema 07 06\ProgramLog\obj\Debug\ProgramLog.Resources.resources
+E:\dados\Sistema 07 06\ProgramLog\obj\Debug\ProgramLog.vbproj.GenerateResource.cache
+E:\dados\Sistema 07 06\ProgramLog\obj\Debug\ProgramLog.vbproj.CoreCompileInputs.cache
+E:\dados\Sistema 07 06\ProgramLog\obj\Debug\ProgramLog.exe
+E:\dados\Sistema 07 06\ProgramLog\obj\Debug\ProgramLog.xml
+E:\dados\Sistema 07 06\ProgramLog\obj\Debug\ProgramLog.pdb
+D:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\bin\Debug\ProgramLog.exe.config
+D:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\bin\Debug\ProgramLog.exe
+D:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\bin\Debug\ProgramLog.pdb
+D:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\bin\Debug\ProgramLog.xml
+D:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.vbproj.AssemblyReference.cache
+D:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\Interop.ADODB.dll
+D:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.vbproj.ResolveComReference.cache
+D:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.frm_atribuir.resources
+D:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.frm_cad_fun.resources
+D:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.frm_cad_maq.resources
+D:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.frm_cad_obra.resources
+D:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.frm_consultar.resources
+D:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.frm_login.resources
+D:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.frm_menu.resources
+D:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.Resources.resources
+D:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.vbproj.GenerateResource.cache
+D:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.vbproj.CoreCompileInputs.cache
+D:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.exe
+D:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.xml
+D:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.pdb
+E:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.vbproj.AssemblyReference.cache
+E:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\Interop.ADODB.dll
+E:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.vbproj.ResolveComReference.cache
+E:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.frm_atribuir.resources
+E:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.frm_cad_fun.resources
+E:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.frm_cad_maq.resources
+E:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.frm_cad_obra.resources
+E:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.frm_consultar.resources
+E:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.frm_login.resources
+E:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.frm_menu.resources
+E:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.Resources.resources
+E:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.vbproj.GenerateResource.cache
+E:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.vbproj.CoreCompileInputs.cache
+E:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.exe
+E:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.xml
+E:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\obj\Debug\ProgramLog.pdb
+E:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\bin\Debug\ProgramLog.exe.config
+E:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\bin\Debug\ProgramLog.exe
+E:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\bin\Debug\ProgramLog.pdb
+E:\dados\Sistemas de Informação\PROJETO 08 06 GUI\PROJETO TESTE DE LAYOUT - Copia\bin\Debug\ProgramLog.xml
+C:\Users\natha\Downloads\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.AssemblyReference.cache
+C:\Users\natha\Downloads\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\Interop.ADODB.dll
+C:\Users\natha\Downloads\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.ResolveComReference.cache
+C:\Users\natha\Downloads\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.exe
+C:\Users\natha\Downloads\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.xml
+C:\Users\natha\Downloads\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.pdb
+C:\Users\natha\Downloads\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.exe.config
+C:\Users\natha\Downloads\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.exe
+C:\Users\natha\Downloads\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.pdb
+C:\Users\natha\Downloads\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.xml
+C:\Users\natha\Downloads\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_atribuir.resources
+C:\Users\natha\Downloads\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_fun.resources
+C:\Users\natha\Downloads\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_maq.resources
+C:\Users\natha\Downloads\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_obra.resources
+C:\Users\natha\Downloads\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_consultar.resources
+C:\Users\natha\Downloads\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_login.resources
+C:\Users\natha\Downloads\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_menu.resources
+C:\Users\natha\Downloads\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.Resources.resources
+C:\Users\natha\Downloads\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.GenerateResource.cache
+C:\Users\natha\Downloads\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.CoreCompileInputs.cache
+E:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.exe.config
+E:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.exe
+E:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.pdb
+E:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.xml
+E:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.AssemblyReference.cache
+E:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.SuggestedBindingRedirects.cache
+E:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\Interop.ADODB.dll
+E:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.ResolveComReference.cache
+E:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_atribuir.resources
+E:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_fun.resources
+E:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_maq.resources
+E:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_obra.resources
+E:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_consultar.resources
+E:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_login.resources
+E:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_menu.resources
+E:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.Resources.resources
+E:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.GenerateResource.cache
+E:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.CoreCompileInputs.cache
+E:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.exe
+E:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.xml
+E:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.pdb
+D:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.AssemblyReference.cache
+D:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\Interop.ADODB.dll
+D:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.ResolveComReference.cache
+D:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_atribuir.resources
+D:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_fun.resources
+D:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_maq.resources
+D:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_obra.resources
+D:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_consultar.resources
+D:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_login.resources
+D:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_menu.resources
+D:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.Resources.resources
+D:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.GenerateResource.cache
+D:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.CoreCompileInputs.cache
+D:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.exe
+D:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.xml
+D:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.pdb
+D:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.exe.config
+D:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.exe
+D:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.pdb
+D:\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.xml
+D:\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.exe.config
+D:\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.exe
+D:\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.pdb
+D:\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.xml
+D:\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.AssemblyReference.cache
+D:\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\Interop.ADODB.dll
+D:\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.ResolveComReference.cache
+D:\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_atribuir.resources
+D:\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_fun.resources
+D:\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_maq.resources
+D:\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_obra.resources
+D:\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_consultar.resources
+D:\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_login.resources
+D:\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_menu.resources
+D:\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.Resources.resources
+D:\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.GenerateResource.cache
+D:\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.CoreCompileInputs.cache
+D:\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.exe
+D:\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.xml
+D:\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.pdb
+C:\Users\natha\Downloads\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.AssemblyReference.cache
+C:\Users\natha\Downloads\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\Interop.ADODB.dll
+C:\Users\natha\Downloads\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.ResolveComReference.cache
+C:\Users\natha\Downloads\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.exe
+C:\Users\natha\Downloads\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.xml
+C:\Users\natha\Downloads\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.pdb
+C:\Users\natha\Downloads\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_atribuir.resources
+C:\Users\natha\Downloads\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_fun.resources
+C:\Users\natha\Downloads\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_maq.resources
+C:\Users\natha\Downloads\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_obra.resources
+C:\Users\natha\Downloads\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_consultar.resources
+C:\Users\natha\Downloads\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_login.resources
+C:\Users\natha\Downloads\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_menu.resources
+C:\Users\natha\Downloads\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.Resources.resources
+C:\Users\natha\Downloads\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.GenerateResource.cache
+C:\Users\natha\Downloads\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.CoreCompileInputs.cache
+C:\Users\natha\Downloads\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.exe.config
+C:\Users\natha\Downloads\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.exe
+C:\Users\natha\Downloads\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.pdb
+C:\Users\natha\Downloads\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.xml
+E:\dados\Sistemas de Informação\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.AssemblyReference.cache
+E:\dados\Sistemas de Informação\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.ResolveComReference.cache
+E:\dados\Sistemas de Informação\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_atribuir.resources
+E:\dados\Sistemas de Informação\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_fun.resources
+E:\dados\Sistemas de Informação\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_maq.resources
+E:\dados\Sistemas de Informação\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_obra.resources
+E:\dados\Sistemas de Informação\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_consultar.resources
+E:\dados\Sistemas de Informação\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_login.resources
+E:\dados\Sistemas de Informação\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_menu.resources
+E:\dados\Sistemas de Informação\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.Resources.resources
+E:\dados\Sistemas de Informação\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.GenerateResource.cache
+E:\dados\Sistemas de Informação\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.CoreCompileInputs.cache
+E:\dados\Sistemas de Informação\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.exe
+E:\dados\Sistemas de Informação\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.xml
+E:\dados\Sistemas de Informação\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.pdb
+E:\dados\Sistemas de Informação\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.exe.config
+E:\dados\Sistemas de Informação\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.exe
+E:\dados\Sistemas de Informação\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.pdb
+E:\dados\Sistemas de Informação\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.xml
+E:\dados\Sistemas de Informação\PROJETO 11 06 2.0\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\Interop.ADODB.dll
+E:\dados\Sistemas de Informação\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.exe.config
+E:\dados\Sistemas de Informação\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.exe
+E:\dados\Sistemas de Informação\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.pdb
+E:\dados\Sistemas de Informação\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.xml
+E:\dados\Sistemas de Informação\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.AssemblyReference.cache
+E:\dados\Sistemas de Informação\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\Interop.ADODB.dll
+E:\dados\Sistemas de Informação\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.ResolveComReference.cache
+E:\dados\Sistemas de Informação\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_atribuir.resources
+E:\dados\Sistemas de Informação\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_fun.resources
+E:\dados\Sistemas de Informação\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_maq.resources
+E:\dados\Sistemas de Informação\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_obra.resources
+E:\dados\Sistemas de Informação\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_consultar.resources
+E:\dados\Sistemas de Informação\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_login.resources
+E:\dados\Sistemas de Informação\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_menu.resources
+E:\dados\Sistemas de Informação\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.Resources.resources
+E:\dados\Sistemas de Informação\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.GenerateResource.cache
+E:\dados\Sistemas de Informação\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.CoreCompileInputs.cache
+E:\dados\Sistemas de Informação\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.exe
+E:\dados\Sistemas de Informação\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.xml
+E:\dados\Sistemas de Informação\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.pdb
+D:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.AssemblyReference.cache
+D:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\Interop.ADODB.dll
+D:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.ResolveComReference.cache
+D:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.exe
+D:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.xml
+D:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.pdb
+D:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.exe.config
+D:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.exe
+D:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.pdb
+D:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.xml
+D:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_atribuir.resources
+D:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_fun.resources
+D:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_maq.resources
+D:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_obra.resources
+D:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_consultar.resources
+D:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_login.resources
+D:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_menu.resources
+D:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.Resources.resources
+D:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.GenerateResource.cache
+D:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.CoreCompileInputs.cache
+E:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.exe.config
+E:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.exe
+E:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.pdb
+E:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\bin\Debug\ProgramLog.xml
+E:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.AssemblyReference.cache
+E:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.SuggestedBindingRedirects.cache
+E:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\Interop.ADODB.dll
+E:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.ResolveComReference.cache
+E:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_atribuir.resources
+E:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_fun.resources
+E:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_maq.resources
+E:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_cad_obra.resources
+E:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_consultar.resources
+E:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_login.resources
+E:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.frm_menu.resources
+E:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.Resources.resources
+E:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.GenerateResource.cache
+E:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.vbproj.CoreCompileInputs.cache
+E:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.exe
+E:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.xml
+E:\projeto final\projeto final\PROJETO 11 06\PROJETO PERFEITINHO\PROJETO PERFEITINHO\obj\Debug\ProgramLog.pdb
